@@ -43,7 +43,7 @@ If you use this code or dataset, **please cite the associated paper**:
 
 ```bibtex
 @article{purnima2025csuid,
-  title={Validation of the Synthetic Underwater Image Dataset Using Classical and Physics-Inspired Restoration Techniques},
+  title={Validation of a Comprehensive Synthetic Underwater Image Dataset Using Traditional and Model-based Restoration Techniques},
   author={Kuruma Purnima and C. Siva Kumar and B. Prasad},
   journal={The Visual Computer},
   year={2025},
